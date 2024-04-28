@@ -4,3 +4,5 @@ opencv-python-headless
 numpy 
 pillow 
 gunicorn
+Tensorflow==2.12.0
+keras 
